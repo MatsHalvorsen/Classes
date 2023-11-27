@@ -1,0 +1,15 @@
+/Users/halvorsen/projects/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/halvorsen/projects/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/halvorsen/projects/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/halvorsen/projects/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/halvorsen/projects/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/halvorsen/projects/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll
